@@ -1,0 +1,34 @@
+div#kozep{
+    margin: 0 auto 0 auto;
+    width: 800px;
+}
+
+#jobbra img{
+    width: 100px;
+    display: block;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: rgb(138, 180, 138);
+    color: #002200;
+}
+h1 {
+    text-align: center;
+}
+p {
+    line-height: 20%;
+    margin-left: 100px;
+}
+li {
+    font-weight: bold;
+}
+
+#jobbra{
+    float: right;
+    text-align: center;
+}
+#terkep{
+    text-align: center;
+}
